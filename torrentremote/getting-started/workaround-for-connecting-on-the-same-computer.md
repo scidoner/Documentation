@@ -1,4 +1,9 @@
-
+---
+title: Workaround for connecting on the same computer
+description: Torrent Remote Documentation
+resource: true
+categories: [torrent-remote]
+---
 Due to limitations put in place by Microsoft in the Windows Runtime, Windows Store apps by default are unable to connect to a local network service over IP. This is referred to as network isolation and you can view more information about it here:  [How to enable loopback and troubleshoot network isolation (Windows Store apps) (Windows)](http://msdn.microsoft.com/en-us/library/windows/apps/Hh780593.aspx) 
 
 > **Warning**
