@@ -5,13 +5,6 @@ resource: true
 categories: [torrent-remote]
 ---
 
-{% for p in site.pages %}
-   {% if p.categories contains page.category %}
-     * [{{ p.title }}]({{ p.url | absolute_url }})
-        <small>{{ p.excerpt }}</small>
-   {% endif %}
-{% endfor %}
-
 ## Welcome to the documentation for the Torrent Remote Windows Store app
 
 We've added some helpful links below to guide you on your way!
