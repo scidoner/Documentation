@@ -4,6 +4,9 @@ description: Torrent Remote Documentation
 resource: true
 categories: [torrent-remote]
 ---
+
+{% include torrent-remote-header.md %}
+
 Due to limitations put in place by Microsoft in the Windows Runtime, Windows Store apps by default are unable to connect to a local network service over IP. This is referred to as network isolation and you can view more information about it here:  [How to enable loopback and troubleshoot network isolation (Windows Store apps) (Windows)](http://msdn.microsoft.com/en-us/library/windows/apps/Hh780593.aspx) 
 
 > **Warning**
@@ -37,7 +40,7 @@ You can follow the below steps to remove the network isolation restriction for t
 1.  Open an elevated  **Command prompt** (Run as administrator).
 2.  Copy and paste the below into the command prompt window and press  **Enter**.
 
-    CheckNetIsolation.exe LoopbackExempt -a -n=17540MichaelScidone.uTorrentClient_8wyshmwpt86bp
+    `CheckNetIsolation.exe LoopbackExempt -a -n=17540MichaelScidone.uTorrentClient_8wyshmwpt86bp`
 
 4.  The command should display an  **"OK"**  result. Once this is done, exit the command prompt.
 
