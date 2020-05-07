@@ -4,6 +4,9 @@ description: Torrent Remote Documentation
 resource: true
 categories: [torrent-remote]
 ---
+
+{% include torrent-remote-header.md %}
+
 > **Note**
 > 
 > You must follow the local network access set up page ([Setting up for
