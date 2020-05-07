@@ -7,13 +7,7 @@ description: A few words about our Torrent Remote app.
 
 We've added some helpful links below to guide you on your way!
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
 
 Over time you will see new information on this portal page, so stay tuned!
 
