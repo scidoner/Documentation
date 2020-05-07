@@ -7,7 +7,7 @@ description: A few words about our Torrent Remote app.
 
 We've added some helpful links below to guide you on your way!
 
-- [Getting Started](getting-started/index.html)
+- [Getting started](getting-started/index.html)
 - [Turning on the Web UI in uTorrent](getting-started/turning-on-web-ui.html)
 - [Setting up for access on a local network](getting-started/setting-up-for-access-on-a-local-network.html)
 
