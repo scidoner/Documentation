@@ -9,9 +9,19 @@ categories: [torrent-remote]
 
 We've added some helpful links below to guide you on your way!
 
-- [Getting started](getting-started/index.html)
-- [Turning on the Web UI in uTorrent](getting-started/turning-on-web-ui.html)
-- [Setting up for access on a local network](getting-started/setting-up-for-access-on-a-local-network.html)
+{% for cat in site.category-list %}
+<ul>
+  {% for page in site.pages %}
+    {% if page.resource == true %}
+      {% for pc in page.categories %}
+        {% if pc == cat %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- page-category -->
+    {% endif %}   <!-- resource-p -->
+  {% endfor %}  <!-- page -->
+</ul>
+{% endfor %}  <!-- cat -->
 
 Over time you will see new information on this portal page, so stay tuned!
 
