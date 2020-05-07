@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+categories: [torrent-remote]
 ---
 
 ## What is the Windows Store Torrent Remote app?
