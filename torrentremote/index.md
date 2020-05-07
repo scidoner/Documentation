@@ -4,27 +4,11 @@ description: A few words about our Torrent Remote app.
 categories: [torrent-remote]
 ---
 
+{% include torrent-remote-header.md %}
+
 ## Welcome to the documentation for the Torrent Remote Windows Store app
 
-We've added some helpful links below to guide you on your way!
-
-{% for cat in site.category-list %}
-{% if cat == 'torrent-remote' %}
-<ul>
-  {% for page in site.pages %}
-    {% if page.resource == true %}
-      {% for pc in page.categories %}
-        {% if pc == cat %}
-          <li><a href="/docs/{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}   
-      {% endfor %}  
-    {% endif %}   
-  {% endfor %}  
-</ul>
-{% endif %}
-{% endfor %} 
-
-Over time you will see new information on this portal page, so stay tuned!
+Please follow the links above to guide you on your way!
 
 ## Our mentions
 
