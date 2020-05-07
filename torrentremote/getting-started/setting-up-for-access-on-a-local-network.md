@@ -53,8 +53,7 @@ Setting up your uTorrent desktop program for remote access on a local network is
 > (in addition to on the same computer), you must still follow the
 > static IP set up below.**
 
-<details>
-<summary><strong>For Windows 8 and Windows 7, Windows Server 2008 R2 and Windows Server 2012...</strong></summary>
+### For Windows 8 and Windows 7, Windows Server 2008 R2 and Windows Server 2012...
 
 1.  For Windows 7, Click **Start** and then  click **Control Panel**. For Windows 8, open the  **Settings Charm**  and then click  **Control Panel.**
 2.  Ensure that the Control Panel view is set to either  **Large icons** or  **Small icons**  (and not set to  **Category**).
@@ -78,10 +77,8 @@ Setting up your uTorrent desktop program for remote access on a local network is
 11.  In the properties window, under **Use the following DNS server addresses**, enter the value you recorded for **IPv4 DNS Server** from  **Step 7**  above into the field **Preferred DNS server.**
 12.  Click  **OK** twice to dismiss both properties windows and save your changes.
 13.  Close  **Close** to close down the remaining status window.
-</details>
 
-<details>
-<summary><strong>For Windows Vista and Windows Server 2008...</strong></summary>
+### For Windows Vista and Windows Server 2008...
 
 1.  Click **Start**.
 2.  On the right pane, right click the **Network** icon and then select **Properties** from the menu that appears.
@@ -104,11 +101,8 @@ Setting up your uTorrent desktop program for remote access on a local network is
 10.  In the properties window, under **Use the following DNS server addresses**, enter the value you recorded for **IPv4 DNS Server** from **Step 6**  above into the field **Preferred DNS server.**
 11.  Click  **OK** twice to dismiss both properties windows and save your changes.
 12.  Close  **Close** to close down the remaining status window.
-</details>
 
-
-<details>
-<summary><strong>For Windows XP...</strong></summary>
+### For Windows XP...
 
 1.  Click **Start** and then click **Run.**
 2.  In the  **Open** box, type  **ncpa.cpl** and then click  **OK.**
@@ -130,9 +124,6 @@ Setting up your uTorrent desktop program for remote access on a local network is
 9.  In the properties window, under **Use the following DNS server addresses**, enter the value you recorded for the  **First DNS Server** from  **Step 5**  above into the field **Preferred DNS server.**
 10.  Click  **OK** twice to dismiss both properties windows and save your changes.
 11.  Close  **Close** to close down the remaining status window.
-
-## Configure firewall software
-</details>
 
 ## Configure firewall software
 
