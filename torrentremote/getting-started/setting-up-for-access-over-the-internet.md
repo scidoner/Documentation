@@ -26,7 +26,4 @@ categories: [torrent-remote]
 > running, you cannot use the Web UI, and thus you cannot use this 
 > Torrent Remote app.
 
-Connecting to your uTorrent with the  Torrent Remote app  over the Internet is a little bit more involved than only accessing it from a local area network (LAN), however the following two pages will help you to configure your devices for Internet access.
-
--   [Opening or forwarding ports on your router](https://docs.scidoner.com/display/UCD/Opening+or+forwarding+ports+on+your+router)
--   [Setting up a Dynamic DNS Service](https://docs.scidoner.com/display/UCD/Setting+up+a+Dynamic+DNS+Service)
+Connecting to your uTorrent with the  Torrent Remote app  over the Internet is a little bit more involved than only accessing it from a local area network (LAN), so you should be familiar with how to forward ports on your router. Due to the amount of different routers out there, we cannot cover that in this documentation.
