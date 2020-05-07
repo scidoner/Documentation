@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+description: Torrent Remote Documentation
 resource: true
 categories: [torrent-remote]
 ---
