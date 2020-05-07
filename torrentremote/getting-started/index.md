@@ -5,6 +5,8 @@ resource: true
 categories: [torrent-remote]
 ---
 
+{% include torrent-remote-header.md %}
+
 ## What is the Windows Store Torrent Remote app?
 
 The  Torrent Remote app  for the Windows Store allows you to connect remotely to any computer running the uTorrent program.  
