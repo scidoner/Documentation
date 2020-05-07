@@ -1,6 +1,8 @@
 ---
 title: Torrent Remote
 description: A few words about our Torrent Remote app.
+resource: true
+categories: [docs]
 ---
 
 ## Welcome to the documentation for the Torrent Remote Windows Store app
