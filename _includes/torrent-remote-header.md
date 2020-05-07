@@ -6,7 +6,7 @@
 >     {% if page.resource == true %}
 >       {% for pc in page.categories %}
 >         {% if pc == cat %}
->           <li><a href="/docs/{{ page.url }}">{{ page.title }}</a></li>
+>           <li><a href="/docs{{ page.url }}">{{ page.title }}</a></li>
 >         {% endif %}   
 >       {% endfor %}  
 >     {% endif %}   
