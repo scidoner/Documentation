@@ -7,7 +7,7 @@ description: A few words about our Torrent Remote app.
 
 We've added some helpful links below to guide you on your way!
 
-
+- [Getting Started](gettingstarted/)
 
 Over time you will see new information on this portal page, so stay tuned!
 
