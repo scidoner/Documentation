@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+resource: true
 categories: [torrent-remote]
 ---
 
