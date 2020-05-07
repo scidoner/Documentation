@@ -1,6 +1,7 @@
 ---
 title: Setting up for access on a local network
 description: Torrent Remote Documentation
+resource: true
 categories: [torrent-remote]
 ---
 > **Note**
