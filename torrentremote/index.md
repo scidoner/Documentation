@@ -9,18 +9,20 @@ categories: [torrent-remote]
 We've added some helpful links below to guide you on your way!
 
 {% for cat in site.category-list %}
+{% if cat == 'torrent-remote' %}
 <ul>
   {% for page in site.pages %}
     {% if page.resource == true %}
       {% for pc in page.categories %}
         {% if pc == cat %}
           <li><a href="/docs/{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- page-category -->
-    {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
+        {% endif %}   
+      {% endfor %}  
+    {% endif %}   
+  {% endfor %}  
 </ul>
-{% endfor %}  <!-- cat -->
+{% endif %}
+{% endfor %} 
 
 Over time you will see new information on this portal page, so stay tuned!
 
