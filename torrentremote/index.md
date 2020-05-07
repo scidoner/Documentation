@@ -1,7 +1,6 @@
 ---
 title: Torrent Remote
 description: A few words about our Torrent Remote app.
-resource: true
 categories: [torrent-remote]
 ---
 
