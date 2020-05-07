@@ -5,6 +5,8 @@ resource: true
 categories: [torrent-remote]
 ---
 
+{% include torrent-remote-header.md %}
+
 The final stage in setting up the  Torrent Remote app  is adding a connection to the app itself.
 
 > **Note**
