@@ -5,6 +5,8 @@ resource: true
 categories: [torrent-remote]
 ---
 
+{% include torrent-remote-header.md %}
+
 In order to start setting up your connections, you must enable the uTorrent Web UI functionality for each uTorrent server you would like to control remotely using the Torrent Remote app. You can follow the steps below to learn how to do this.
 
 ## Enabling the Web UI
