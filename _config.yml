@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: scidoner.com Documentation
+description: A few words about some of our projects
 github:
   is_project_page: false
