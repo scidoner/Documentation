@@ -1,6 +1,7 @@
 ---
 title: Turning on the Web UI in uTorrent
 description: Torrent Remote Documentation
+resource: true
 categories: [torrent-remote]
 ---
 
