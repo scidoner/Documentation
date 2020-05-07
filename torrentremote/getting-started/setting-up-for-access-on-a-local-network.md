@@ -1,3 +1,7 @@
+---
+title: Setting up for access on a local network
+description: Torrent Remote Documentation
+---
 > **Note**
 > 
 > You must follow the steps on the page  [Turning on the Web UI in
