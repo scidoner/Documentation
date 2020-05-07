@@ -1,6 +1,7 @@
 ---
 title: Turning on the Web UI in uTorrent
 description: Torrent Remote Documentation
+categories: [torrent-remote]
 ---
 
 In order to start setting up your connections, you must enable the uTorrent Web UI functionality for each uTorrent server you would like to control remotely using the Torrent Remote app. You can follow the steps below to learn how to do this.
