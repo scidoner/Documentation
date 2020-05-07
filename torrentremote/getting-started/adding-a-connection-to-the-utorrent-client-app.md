@@ -1,3 +1,9 @@
+---
+title: Adding a connection to the Torrent Remote App
+description: Torrent Remote Documentation
+resource: true
+categories: [torrent-remote]
+---
 
 The final stage in setting up the  Torrent Remote app  is adding a connection to the app itself.
 
