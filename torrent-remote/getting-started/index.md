@@ -54,12 +54,10 @@ In order for all of this functionality to work, the uTorrent program provides a 
 
 Unfortunately, however it does require a little bit of setting up from you, the end user. But that's not to worry, it isn't hard at all! Just follow the links below to get started setting up your Web UI connection so you can use it with the  Torrent Remote app  for the Windows Store!
 
--   [Turning on the Web UI in uTorrent](https://docs.scidoner.com/display/UCD/Turning+on+the+Web+UI+in+uTorrent)
--   [Setting up for access on a local network](https://docs.scidoner.com/display/UCD/Setting+up+for+access+on+a+local+network)
--   [Setting up for access over the Internet](https://docs.scidoner.com/display/UCD/Setting+up+for+access+over+the+Internet)  
-    -   [Opening or forwarding ports on your router](https://docs.scidoner.com/display/UCD/Opening+or+forwarding+ports+on+your+router)
-    -   [Setting up a Dynamic DNS Service](https://docs.scidoner.com/display/UCD/Setting+up+a+Dynamic+DNS+Service)
--   [Adding a connection to the uTorrent Client app](https://docs.scidoner.com/display/UCD/Adding+a+connection+to+the+uTorrent+Client+app)
+-   [Turning on the Web UI in uTorrent](/docs/torrent-remote/getting-started/turning-on-web-ui.html)
+-   [Setting up for access on a local network](/docs/torrent-remote/getting-started/setting-up-for-access-on-a-local-network.html)
+-   [Setting up for access over the Internet](/docs/torrent-remote/getting-started/setting-up-for-access-over-the-internet.html)  
+-   [Adding a connection to the uTorrent Client app](/docs/torrent-remote/getting-started/adding-a-connection-to-the-utorrent-client-app.html)
 
 > **Information**
 > 
