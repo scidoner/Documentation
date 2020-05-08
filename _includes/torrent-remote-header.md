@@ -1,4 +1,4 @@
-> ## Contents
+> ## Navigation
 > {% for cat in site.category-list %}
 > {% if cat == 'torrent-remote' %}
 > <ul>
