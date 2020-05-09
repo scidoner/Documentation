@@ -66,6 +66,6 @@ Once you have all of the above information ready, its time to add the connection
 
 You should now see your newly added connection appear as a new title on the screen. It will be titled with the **Friendly name**  you entered in step 2.1 above. The first time that you tap or click the tile for your connection, you will be prompted for your **credentials.**  Once you enter them, your torrent listing will load and you are done! You are now able to view, control and add new torrents to your remote instance of the uTorrent desktop program.
 
-![](https://docs.scidoner.com/download/attachments/1835081/screenshot_01032013_162655.png?version=1&modificationDate=1357201690000&api=v2)
+![](/docs/assets/img/screenshot_01032013_162655.png)
 > Figure 1. The add server flyout.
 
