@@ -53,4 +53,4 @@ In order to start setting up your connections, you must enable the uTorrent Web 
 After enabling and configuring the Web UI, the next step is to ensure the computer running the uTorrent desktop program can be accessed on the local network. See [Setting up for access on a local network](setting-up-for-access-on-a-local-network.html).
 
 
-[figure1]: "/docs/assets/img/Web UI Preferences.png" "Figure 1"
+[figure1]: /docs/assets/img/Web UI Preferences.png "Figure 1"
