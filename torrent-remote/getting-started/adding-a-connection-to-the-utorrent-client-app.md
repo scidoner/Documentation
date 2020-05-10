@@ -13,20 +13,20 @@ The final stage in setting up the  Torrent Remote app  is adding a connection to
 > 
 > You must complete the following two stages before attempting this one:
 > 
-> -   [Turning on the Web UI in uTorrent](https://docs.scidoner.com/display/UCD/Turning+on+the+Web+UI+in+uTorrent)
-> -   [Setting up for access on a local network](https://docs.scidoner.com/display/UCD/Setting+up+for+access+on+a+local+network)
+> -   [Turning on the Web UI in uTorrent](/docs/torrent-remote/getting-started/turning-on-web-ui.html)
+> -   [Setting up for access on a local network](/docs/torrent-remote/getting-started/setting-up-for-access-on-a-local-network.html)
 > 
 > Additionally, if you are wanting to add a connection over the
 > Internet, you must also follow the steps here:  [Setting up for access
 > over the
-> Internet](https://docs.scidoner.com/display/UCD/Setting+up+for+access+over+the+Internet).
+> Internet](/docs/torrent-remote/getting-started/setting-up-for-access-over-the-internet.html).
 > 
 > **Warning**
 > 
 > If you are running the  Torrent Remote app  on the same computer as
 > the uTorrent desktop program, and wish to connect to it, please see 
 > [Workaround for connecting on the same
-> computer](https://docs.scidoner.com/display/UCD/Workaround+for+connecting+on+the+same+computer)
+> computer](/docs/torrent-remote/getting-started/workaround-for-connecting-on-the-same-computer.html)
 > before following below. This page contains important information for
 > this scenario where the  Torrent Remote app  is used to connect to the
 > uTorrent desktop program running on the **same computer.**  If you do
@@ -39,7 +39,7 @@ The final stage in setting up the  Torrent Remote app  is adding a connection to
 In order to successfully add your connection and start managing your torrents remotely, you will need the following information from the computer running the uTorrent desktop program:
 
 -   IP address of that computer (referred to as "the **IP address**" from here on).  
-    _This is the static IP that was configured during the steps on the page  [Setting up for access on a local network](https://docs.scidoner.com/display/UCD/Setting+up+for+access+on+a+local+network). If you are connecting on the **same computer**, you should use 127.0.0.1 as the IP address. If you are connecting over the Internet, you will need your Dynamic DNS name (host) or external static IP address which were set up during the steps on the page  [Setting up for access over the Internet](https://docs.scidoner.com/display/UCD/Setting+up+for+access+over+the+Internet)__._  
+    _This is the static IP that was configured during the steps on the page  [Setting up for access on a local network](/docs/torrent-remote/getting-started/setting-up-for-access-on-a-local-network.html). If you are connecting on the **same computer**, you should use 127.0.0.1 as the IP address. If you are connecting over the Internet, you will need your Dynamic DNS name (host) or external static IP address which were set up during the steps on the page  [Setting up for access over the Internet](/docs/torrent-remote/getting-started/setting-up-for-access-over-the-internet.html)__._  
       
     
 -   Port that uTorrent is configured to listen on (referred to as "the  **port**  **number**" from here on).  
@@ -49,11 +49,11 @@ In order to successfully add your connection and start managing your torrents re
     2.  _On the left select  **Connection**._
     3.  _The value you want is in the box labeled **Port used for incoming connections.**_
     
-    _You may have configured an alternative listening port on the page  [Turning on the Web UI in uTorrent](https://docs.scidoner.com/display/UCD/Turning+on+the+Web+UI+in+uTorrent). If you did, you will need to use this port instead._  
+    _You may have configured an alternative listening port on the page  [Turning on the Web UI in uTorrent](/docs/torrent-remote/getting-started/turning-on-web-ui.html). If you did, you will need to use this port instead._  
       
     
 -   User name and password (referred to collectively as "the  **credentials**" from here on).  
-    _This is the user name and password that you set during the steps on the page  [Turning on the Web UI in uTorrent](https://docs.scidoner.com/display/UCD/Turning+on+the+Web+UI+in+uTorrent)._
+    _This is the user name and password that you set during the steps on the page  [Turning on the Web UI in uTorrent](/docs/torrent-remote/getting-started/turning-on-web-ui.html)._
 
 Once you have all of the above information ready, its time to add the connection to the  Torrent Remote app. The below steps outline how to accomplish this.
 
