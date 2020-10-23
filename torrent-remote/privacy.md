@@ -1,3 +1,11 @@
+---
+title: Torrent Remote
+description: A few words about our Torrent Remote app.
+categories: [torrent-remote]
+---
+
+{% include torrent-remote-header.md %}
+
 # Privacy Policy
 
 Last updated: October 23, 2020
